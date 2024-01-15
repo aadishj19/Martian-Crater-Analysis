@@ -24,16 +24,6 @@ The scatter plot of depth versus diameter indicates that larger craters tend to 
 
 When the diameter is log-transformed, the scatter plot shows a clearer trend between crater diameter and depth. Larger craters (on a log scale) still show a tendency to be deeper, but the variability is highlighted.
 
-### Morphology Ejecta 1 - Top 20 (Bar Chart)
-![image](https://github.com/aadishj19/Martian-Crater-Analysis/assets/84670503/ed1a56c7-c855-4e24-ab7e-e05ade7a7562)
-
-The bar chart for the top 20 morphologies of the first ejecta type (MORPHOLOGY_EJECTA_1) reveals that one category overwhelmingly dominates, with other morphologies being less frequent.
-
-### Morphology Ejecta 1 - Top 20 Ignoring Blanks (Bar Chart)
-![image](https://github.com/aadishj19/Martian-Crater-Analysis/assets/84670503/8311118b-f081-4375-95c7-640e78055086)
-
-When blank entries are ignored, the bar chart indicating the top morphological features of ejecta displays a more varied distribution, although one category still remains the most common by a significant margin.
-
 ### Static Plot of All Mars Craters
 ![image](https://github.com/aadishj19/Martian-Crater-Analysis/assets/84670503/32987f4d-dccf-4d89-bbc4-6c53b02d7214)
 
