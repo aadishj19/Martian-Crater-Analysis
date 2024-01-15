@@ -58,3 +58,7 @@ This bar chart presents the distribution of the number of layers observed in nam
 
 These bar plots display the most common morphology types for small, medium, and large craters. Each plot reveals that certain morphologies are more prevalent in craters of different sizes. For instance, the "Rd" (Rampart) morphology appears to be a dominant feature across all size categories.
 
+### Interactive geospatial visualization
+![image](https://github.com/aadishj19/Martian-Crater-Analysis/assets/84670503/45438f1a-8754-43da-b604-dfdc493a0701)
+
+Visualization created with Folium and base map taken from OpenPlanetary overlayed with the named craters.
