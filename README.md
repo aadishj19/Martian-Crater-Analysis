@@ -61,4 +61,4 @@ These bar plots display the most common morphology types for small, medium, and 
 ### Interactive geospatial visualization
 ![image](https://github.com/aadishj19/Martian-Crater-Analysis/assets/84670503/45438f1a-8754-43da-b604-dfdc493a0701)
 
-Visualization created with Folium and base map taken from OpenPlanetary overlayed with the named craters.
+Visualization created with Folium and base map taken from OpenPlanetary overlayed with the named craters. Interactive map can be accessed from the link above!
