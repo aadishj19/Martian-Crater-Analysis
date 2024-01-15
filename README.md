@@ -5,13 +5,12 @@ This repository contains the data analysis and visualization code for a dataset 
 ## Plot Descriptions
 
 ### Diameter Distribution (Histogram)
-![Diameter Distribution](![image](https://github.com/aadishj19/Martian-Crater-Analysis/assets/84670503/c99d9f78-df11-42d0-a9aa-57b7e01744c2)
-)
+![Diameter Distribution]![image](https://github.com/aadishj19/Martian-Crater-Analysis/assets/84670503/c99d9f78-df11-42d0-a9aa-57b7e01744c2)
 This histogram shows the distribution of crater diameters in the dataset on a logarithmic scale. The number of craters decreases as the diameter increases, indicating that smaller craters are far more common than larger ones.
 
 ### Depth Distribution - Positive Values
-![Depth Distribution Positive](![image](https://github.com/aadishj19/Martian-Crater-Analysis/assets/84670503/50efef6b-b7a7-47ca-9a10-0b0d28f353e0)
-)
+![Depth Distribution Positive]![image](https://github.com/aadishj19/Martian-Crater-Analysis/assets/84670503/50efef6b-b7a7-47ca-9a10-0b0d28f353e0)
+
 When considering only positive depth values, the histogram still shows that shallow craters predominate, yet there is a noticeable tail of craters that have greater depths.
 
 ### Depth vs. Diameter (Scatter Plot)
