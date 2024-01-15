@@ -2,7 +2,7 @@
 
 This repository contains the data analysis and visualization code for a dataset on Mars craters. The code explores the characteristics of craters such as diameter, depth, morphology, and the number of layers. It includes a variety of plots to help in the understanding of these features.
 
-To render the interactive plots, [click here to run the ipynb](https://nbviewer.org/github/aadishj19/Belgium-Pollutants-Data/blob/main/Belgium_Air_Pollutants.ipynb#).
+To render the interactive plots, [click here to run the ipynb](https://nbviewer.org/github/aadishj19/Martian-Crater-Analysis/blob/main/Martian%20Crater%20Analysis.ipynb).
 
 
 
